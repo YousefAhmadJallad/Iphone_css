@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+
+
+.position{
+    float:left;
+}
+
+.Iphone{
+    margin-top: 10px;
+    margin-left: 1%;
+    padding: 10px;
+    border: 1px solid grey;
+    
+}
+
+
+.Iphone img{
+    width: 100%;
+ 
+}
+
+
+.clearfix{
+    clear: both;
+}
+
+.Products{
+    margin-left: 8%;
+
+}
+
+.Products h1 {
+    text-align: left;
+}
+
+.prices {
+    display: inline;
+    
+}
+
+.original-price{
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+}
+
+.sale-price{
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+}
+
+.Cart {
+    display: inline;
+    width: 250px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0px;
+}
+
+.favourite{
+    height: 30px;
+    width: 40px;
+    background-color: white;
+    color: blue;
+    border: 3px solid lightslategray;
+
+}
